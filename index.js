@@ -11,3 +11,5 @@ function contarVogais(word) {
   }
 }
 contarVogais("s");
+contarVogais(5);
+contarVogais("banana");
